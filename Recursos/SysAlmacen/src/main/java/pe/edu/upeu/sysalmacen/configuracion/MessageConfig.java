@@ -11,7 +11,7 @@ import java.util.Locale;
 @Configuration
 public class MessageConfig {
 
-  
+    //Establecer un default locale
     @Bean
     @Scope("prototype")
     public LocaleResolver localeResolver() {
