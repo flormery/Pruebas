@@ -1,0 +1,12 @@
+
+acceso
+admin
+2db460bbd0cf4ea78b11ede7b9307613
+
+
+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
+
+
+
+
+de jenkins
